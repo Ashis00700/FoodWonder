@@ -12,7 +12,7 @@ export default function Header() {
 
           <div className="flex items-center gap-8 text-white font-bold">
             <Link to="/comingsoon" target="_blank">
-              FoodExpress Corporate
+              FoodWonder
             </Link>
             <Link to="/comingsoon" target="_blank">
               Partner with us
